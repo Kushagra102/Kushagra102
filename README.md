@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushagra</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif">
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952eohbdq5kxhnzxcqv6gaao256eg3rjkl0ytybum5j&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra102&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra102" /> </p>
 
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ziza and rosliny**
 
-- 🌱 I’m currently learning **T3 Stack and AI ML (Generative AI)**
+- 🌱 I’m currently learning **Go, T3 Stack, AWS and Generative AI**
 
 - 💬 Ask me about **MERN, NEXT and Express**
 
